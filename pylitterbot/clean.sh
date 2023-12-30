@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-python3 clean.py
+pip install pylitterbot
+python3 /home/pi/pylitterbot/clean.py
